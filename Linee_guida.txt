@@ -4,3 +4,117 @@ All'avvio, login con user e password per protezione dati
 		- GPS posizione palestra preferita (+ spostamenti corsa libera(?))
 
 	- Database locale: Room obbligatorio
+
+	- Tutorial utilizzo (video o step by step)
+
+	- Pagine:
+		# NavBar sempre presente in basso:
+			- Home
+			- Impostazioni:
+				- Tema
+				- Privacy
+				- Logout
+				- etc ..
+			- Badge e Premi
+			- Schede allenamento
+			- Statistiche
+
+		# Home page:
+			- Progress allenamento giornaliero (progress bar + calorie bruciate)
+			- Scheda allenamento rapido:
+				- x schermate
+			- Scheda per dati biometrici
+			- Sincronizza con smartwatch (opzionale xp aggiuntivi)
+
+		# Impostazioni:
+			- Generale:
+				- Personalizzazione
+				- Unità di misura
+				- Collegamento wearable
+			- Permessi:
+				- Permessi posizione
+				- Notifiche
+			- Privacy:
+				- Cambio credenziali
+				- Avviso sulla privacy
+				- About us
+				- Info app
+					- Termini di utilizzo
+					- Licenza app
+				- Logout
+
+		# Badge e Premi:
+			- Livello basato su xp in base a cosa fai nell'allenamento (basico + foto + dati biometrici)
+			- Temi app sbloccabili
+			- Icona basata su livello
+			- Progressi:
+				- Livelli raggiunti
+				- Oggetti sbloccati
+			- Voce donazioni
+
+		# Schede:
+			- Lista schede create con filtri:
+				- tutte
+				- attive
+				- passate
+					+
+				- Gambe
+				- Superiore
+				- Total body
+				- Allenamento libero
+			- Bottone aggiungi scheda
+				
+		# Nuova scheda:
+			- Palestra:
+				- selezionare o aggiungi
+			- Tipo scheda:
+				- Gambe
+				- Superiore
+				- Total body
+				- Allenamento libero
+			- Bottone aggiungi esercizio
+				- Esercizio:
+					- Tipo esercizio
+					- Serie x Ripetizioni
+					- Carico
+					- T. recupero
+					- T. Esecuzione:
+						- Rapida: 2 sec
+						- Normale : 4 sec
+						- Lenta: 6 sec
+					- Superset? (vediamo)
+						- Aggiunta simmetrica di esercizio
+			- Peso corporeo
+			- Data inizio
+			- Data fine
+			- Circuito
+				- Esercizio:
+					- Tipo
+					- Ripetizione
+					- T. Esecuzione
+				- T. recupero
+				- Serie
+			- Voce allenamento completo:
+				- Scheda vale come allenamento completo
+
+		# Allenamento attivo:
+			- Scegli esercizio
+				- Countdown preparazione: 5 sec
+				- Esecuzione: x secondi, annuncio inizio e fine
+				- Pausa: x secondi, annuncio inizio e countdown fine
+					- goto Esecuzione: fino alla fine
+				- Fine esercizio
+				- Carica schermata scegli esercizio
+			
+			- Al termine:
+				- Foto post-workout (opzionale xp aggiuntivi)
+				- Salvataggio e Synching altre schermate
+
+		# Statistiche e dati biometrici:
+			- Giorno della settimana e allenamento fatto o no
+			- Dati biometrici con filtri (giornaliero, settimanale, mensile)
+			- Progress bar relativa
+			- Progressi giornalieri
+			- Grafico progressi
+
+			
