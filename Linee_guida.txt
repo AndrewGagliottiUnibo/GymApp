@@ -1,0 +1,6 @@
+All'avvio, login con user e password per protezione dati
+	- Creazione profilo (condivisione dati e prossimità con altri user della app?)
+		- Camera per foto post allenamento collegato ad ogni scheda
+		- GPS posizione palestra preferita (+ spostamenti corsa libera(?))
+
+	- Database locale: Room obbligatorio
