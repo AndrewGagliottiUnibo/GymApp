@@ -1,1 +1,1 @@
-# GymApp
+# GymPro
