@@ -28,19 +28,21 @@ All'avvio, login con user e password per protezione dati
 
 		# Impostazioni:
 			- Generale:
+				- Informazioni personali
 				- Personalizzazione
-				- Unità di misura
-				- Collegamento wearable
+					- Unità di misura
+					- Tema
+					- Tavoletta Monet
 			- Permessi:
+				- Collegamento wearable
 				- Permessi posizione
 				- Notifiche
 			- Privacy:
-				- Cambio credenziali
-				- Avviso sulla privacy
-				- About us
-				- Info app
+				- Privacy policy
 					- Termini di utilizzo
 					- Licenza app
+				- Contatti
+				- Versione
 				- Logout
 
 		# Badge e Premi:
