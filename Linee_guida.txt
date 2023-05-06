@@ -63,7 +63,6 @@ All'avvio, login con user e password per protezione dati
 				- Gambe
 				- Superiore
 				- Total body
-				- Allenamento libero
 			- Bottone aggiungi scheda
 				
 		# Nuova scheda:
@@ -84,8 +83,6 @@ All'avvio, login con user e password per protezione dati
 						- Rapida: 2 sec
 						- Normale : 4 sec
 						- Lenta: 6 sec
-					- Superset? (vediamo)
-						- Aggiunta simmetrica di esercizio
 			- Peso corporeo
 			- Data inizio
 			- Data fine
@@ -96,8 +93,6 @@ All'avvio, login con user e password per protezione dati
 					- T. Esecuzione
 				- T. recupero
 				- Serie
-			- Voce allenamento completo:
-				- Scheda vale come allenamento completo
 
 		# Allenamento attivo:
 			- Scegli esercizio
