@@ -1,4 +1,4 @@
-package com.example.gympro
+package com.example.gymapp
 
 import org.junit.Test
 
