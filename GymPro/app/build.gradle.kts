@@ -77,4 +77,5 @@ dependencies {
 // Altre dipendenze raccomandate per Jetpack Compose
     implementation ("androidx.compose.ui:ui-tooling:1.0.5")
     implementation ("androidx.compose.runtime:runtime-livedata:1.0.5")
+    implementation ("androidx.room:room-runtime:2.4.0")
 }
