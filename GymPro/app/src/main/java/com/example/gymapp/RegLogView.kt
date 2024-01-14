@@ -27,7 +27,7 @@ import androidx.room.PrimaryKey
 import androidx.room.Query
 import androidx.room.RoomDatabase
 
-class ControllerGym {
+class RegLogView {
 
     @Composable
     fun RegistrationScreen(navController: NavHostController) {

@@ -2,21 +2,12 @@ package com.example.gymapp
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.*
-import androidx.compose.material.*
-import androidx.compose.runtime.*
-import androidx.compose.ui.Alignment
-import androidx.compose.ui.Modifier
-import androidx.compose.ui.unit.dp
-import androidx.navigation.NavHostController
-import androidx.navigation.compose.*
-import androidx.compose.ui.tooling.preview.Preview
-import com.example.gymapp.ModelGym
-import com.example.gymapp.ControllerGym
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.rememberNavController
 
 val modgym = ModelGym()
-val contgym = ControllerGym()
+val contgym = RegLogView()
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -39,29 +30,5 @@ class MainActivity : ComponentActivity() {
 
 
 
-/*
-@Preview
-@Composable
-fun PreviewRegistrationScreen() {
-    RegistrationScreen(navController = rememberNavController())
-}
 
-@Preview
-@Composable
-fun PreviewLoginScreen() {
-    LoginScreen(navController = rememberNavController())
-}
-
- */
-
-
-
-/* suspend fun saveUserData(username: String, password: String, userDao: UserDao) {
-    val hashedPassword = modgym.hashPassword(password)
-
-    val user = User(username = username, password = hashedPassword)
-    userDao.insertUser(user)
-}
-
- */
 
