@@ -3,8 +3,8 @@
 
 
 Per ogni nuova activity:
-
 z.x.y, x aumenta e y si resetta.
+
 
 
 
