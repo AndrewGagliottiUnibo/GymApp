@@ -1,5 +1,6 @@
-All'avvio, login con user e password per protezione dati
-	- Creazione profilo (condivisione dati e prossimità con altri user della app?)
+All'avvio, login con username e password per protezione dati
+		# Creazione profilo (e-mail e password oppure collegamento con account google)
+			- Nome, Cognome, età, peso corporeo
 		- Camera per foto post allenamento collegato ad ogni scheda
 		- GPS posizione palestra preferita (+ spostamenti corsa libera(?))
 
